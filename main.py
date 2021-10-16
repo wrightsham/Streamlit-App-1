@@ -14,8 +14,8 @@ import pandas as pd
 
 import main_functions
 
-# nltk.download("punkt")
-# nltk.download("stopwords")
+nltk.download("punkt")
+nltk.download("stopwords")
 api_key_dict = main_functions.read_from_file("JSON_Files/api_key.json")
 api_key = api_key_dict["my_key"]
 my_articles = main_functions.read_from_file("JSON_Files/responses.json")
