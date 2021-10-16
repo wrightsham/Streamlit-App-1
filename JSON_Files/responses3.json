@@ -1,0 +1,1220 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/c9bd075c-483f-51c3-9d2c-dc652922fabd",
+      "url": "https://www.nytimes.com/2021/10/12/health/aspirin-heart-attack-stroke.html",
+      "id": 100000008015459,
+      "asset_id": 100000008015459,
+      "source": "New York Times",
+      "published_date": "2021-10-12",
+      "updated": "2021-10-13 13:56:08",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Aspirin;Preventive Medicine;Heart;Colon and Colorectal Cancer;Stroke;Doctors;your-feed-healthcare;Agency for Healthcare Research and Quality;United States Preventive Services Task Force;American College of Cardiology;American Heart Assn",
+      "column": null,
+      "byline": "By Roni Caryn Rabin",
+      "type": "Article",
+      "title": "Aspirin Use to Prevent 1st Heart Attack or Stroke Should Be Curtailed, U.S. Panel Says",
+      "abstract": "Adults at high risk for cardiovascular disease may face serious side effects if they start a daily regimen of low-dose aspirin.",
+      "des_facet": [
+        "Aspirin",
+        "Preventive Medicine",
+        "Heart",
+        "Colon and Colorectal Cancer",
+        "Stroke",
+        "Doctors",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Agency for Healthcare Research and Quality",
+        "United States Preventive Services Task Force",
+        "American College of Cardiology",
+        "American Heart Assn"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doctors would be discouraged from starting patients on a daily dose of baby aspirin to prevent heart attack or stroke under proposed new guidelines.",
+          "copyright": "Alamy",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/12/science/12aspirin/12aspirin-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/12/science/12aspirin/12aspirin-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/12/science/12aspirin/12aspirin-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5cb79dc7-63ef-575d-b561-e7044eee7ac8",
+      "url": "https://www.nytimes.com/2021/10/10/us/politics/espionage-nuclear-submarine-fbi.html",
+      "id": 100000008017725,
+      "asset_id": 100000008017725,
+      "source": "New York Times",
+      "published_date": "2021-10-10",
+      "updated": "2021-10-12 12:49:07",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Classified Information and State Secrets;Espionage and Intelligence Services;Submarines and Submersibles;United States Defense and Military Forces;United States Politics and Government;Toebbe, Jonathan;Toebbe, Diana;United States Navy",
+      "column": null,
+      "byline": "By Julian E. Barnes, David E. Sanger and Brenda Wintrode",
+      "type": "Article",
+      "title": "U.S. Navy Engineer Charged in Attempt to Sell Nuclear Submarine Secrets",
+      "abstract": "Jonathan Toebbe and his wife tried several times to pass information on nuclear propulsion systems to a foreign government, according to a criminal complaint.",
+      "des_facet": [
+        "Classified Information and State Secrets",
+        "Espionage and Intelligence Services",
+        "Submarines and Submersibles",
+        "United States Defense and Military Forces",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "United States Navy"
+      ],
+      "per_facet": [
+        "Toebbe, Jonathan",
+        "Toebbe, Diana"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Virginia-class attack submarine in Hawaii last month. Nuclear propulsion technology used in U.S. submarines is highly sought after.\u00a0",
+          "copyright": "U.S. Navy, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/11/lens/11-SUB-DC-SUBMARINE-PRINT/10dc-submarine-photo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/11/lens/11-SUB-DC-SUBMARINE-PRINT/10dc-submarine-photo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/11/lens/11-SUB-DC-SUBMARINE-PRINT/10dc-submarine-photo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c1d4f466-b83b-5c77-b4c0-b476f988610f",
+      "url": "https://www.nytimes.com/2021/10/11/sports/football/what-did-jon-gruden-say.html",
+      "id": 100000008018714,
+      "asset_id": 100000008018714,
+      "source": "New York Times",
+      "published_date": "2021-10-11",
+      "updated": "2021-10-14 22:18:39",
+      "section": "Sports",
+      "subsection": "N.F.L.",
+      "nytdsection": "sports",
+      "adx_keywords": "Appointments and Executive Changes;Coaches and Managers;Football;Discrimination;Workplace Hazards and Violations;Indecency, Obscenity and Profanity;Women and Girls;Homosexuality and Bisexuality;Black People;Gruden, Jon;Allen, Bruce (1956- );Goodell, Roger;Nassib, Carl (1993- );Smith, DeMaurice;Las Vegas Raiders;ESPN;Washington Football Team;National Football League Players Assn;National Football League",
+      "column": null,
+      "byline": "By Ken Belson and Katherine Rosman",
+      "type": "Article",
+      "title": "Raiders Coach Resigns After Homophobic and Misogynistic Emails",
+      "abstract": "In emails detailed by The New York Times, Raiders Coach Jon Gruden casually used misogynistic and homophobic language to disparage people.",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "Coaches and Managers",
+        "Football",
+        "Discrimination",
+        "Workplace Hazards and Violations",
+        "Indecency, Obscenity and Profanity",
+        "Women and Girls",
+        "Homosexuality and Bisexuality",
+        "Black People"
+      ],
+      "org_facet": [
+        "Las Vegas Raiders",
+        "ESPN",
+        "Washington Football Team",
+        "National Football League Players Assn",
+        "National Football League"
+      ],
+      "per_facet": [
+        "Gruden, Jon",
+        "Allen, Bruce (1956- )",
+        "Goodell, Roger",
+        "Nassib, Carl (1993- )",
+        "Smith, DeMaurice"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In a postgame news conference Sunday, Raiders Coach Jon Gruden addressed an email in which he used a racist trope to describe DeMaurice Smith, the head of the N.F.L. Players Association.",
+          "copyright": "Rick Scuteri/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/12/sports/11nfl-gruden-1/11nfl-gruden-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/12/sports/11nfl-gruden-1/merlin_195402849_114c3516-3f6a-4b1d-abe4-2787d1e45391-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/12/sports/11nfl-gruden-1/merlin_195402849_114c3516-3f6a-4b1d-abe4-2787d1e45391-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e1eab467-0f63-566f-9eed-7cea6be9a278",
+      "url": "https://www.nytimes.com/2021/10/09/arts/television/shannen-doherty-breast-cancer-instagram.html",
+      "id": 100000008015259,
+      "asset_id": 100000008015259,
+      "source": "New York Times",
+      "published_date": "2021-10-09",
+      "updated": "2021-10-10 15:27:15",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Actors and Actresses;Breast Cancer;Chemotherapy;Television;Doherty, Shannen;Instagram Inc",
+      "column": null,
+      "byline": "By Maria Cramer",
+      "type": "Article",
+      "title": "In Candid Photos, Shannen Doherty Shows the Ravages of Breast Cancer",
+      "abstract": "The actress, 50, who has Stage 4 cancer, said she posted the photos to help raise awareness about breast cancer prevention.",
+      "des_facet": [
+        "Actors and Actresses",
+        "Breast Cancer",
+        "Chemotherapy",
+        "Television"
+      ],
+      "org_facet": [
+        "Instagram Inc"
+      ],
+      "per_facet": [
+        "Doherty, Shannen"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shannen Doherty, center, in blue, with the cast of \u201cBeverly Hills, 90210,\u201d in 1991.",
+          "copyright": "Mikel Roberts/Sygma via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/08/lens/00xp-doherty2/00xp-doherty2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/08/lens/00xp-doherty2/00xp-doherty2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/08/lens/00xp-doherty2/00xp-doherty2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e96d76a4-e07f-53cd-8e56-92b91d686a10",
+      "url": "https://www.nytimes.com/2021/10/06/health/malaria-vaccine-who.html",
+      "id": 100000008000050,
+      "asset_id": 100000008000050,
+      "source": "New York Times",
+      "published_date": "2021-10-06",
+      "updated": "2021-10-07 18:20:01",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Vaccination and Immunization;Malaria;Preventive Medicine;Parasites;Disease Rates;Deaths (Fatalities);Children and Childhood;your-feed-science;GlaxoSmithKline PLC;World Health Organization;Africa",
+      "column": null,
+      "byline": "By Apoorva Mandavilli",
+      "type": "Article",
+      "title": "A \u2018Historic Event\u2019: First Malaria Vaccine Approved by W.H.O.",
+      "abstract": "Malaria kills about 500,000 people each year, about half of them children in Africa. The new vaccine isn\u2019t perfect, but it will help turn the tide, experts said.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Malaria",
+        "Preventive Medicine",
+        "Parasites",
+        "Disease Rates",
+        "Deaths (Fatalities)",
+        "Children and Childhood",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "GlaxoSmithKline PLC",
+        "World Health Organization"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Africa"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6542a31c-b1d5-51a7-98f6-8f62a075072b",
+      "url": "https://www.nytimes.com/2021/10/11/arts/superman-comes-out.html",
+      "id": 100000008015030,
+      "asset_id": 100000008015030,
+      "source": "New York Times",
+      "published_date": "2021-10-11",
+      "updated": "2021-10-13 16:41:45",
+      "section": "Arts",
+      "subsection": "",
+      "nytdsection": "arts",
+      "adx_keywords": "Comic Books and Strips;Superman (Fictional Character);Homosexuality and Bisexuality;United States Politics and Government;audio-neutral-informative;Taylor, Tom (2001- );DC Comics;Comics Code Authority",
+      "column": null,
+      "byline": "By George Gene Gustines",
+      "type": "Article",
+      "title": "Superman Comes Out, as DC Comics Ushers In a New Man of Steel",
+      "abstract": "The new Superman, the son of Clark Kent and Lois Lane, is concerned about the environment, does not shy away from politics and will soon begin a romantic relationship with a male friend.",
+      "des_facet": [
+        "Comic Books and Strips",
+        "Superman (Fictional Character)",
+        "Homosexuality and Bisexuality",
+        "United States Politics and Government",
+        "audio-neutral-informative"
+      ],
+      "org_facet": [
+        "DC Comics",
+        "Comics Code Authority"
+      ],
+      "per_facet": [
+        "Taylor, Tom (2001- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jonathan Kent, the new Superman, who is the son of Clark Kent and Lois Lane, shares an unexpected kiss with his friend Jay.",
+          "copyright": "John Timms/DC Comics",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/12/arts/11comic-page2/11comic-page2-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/12/arts/11comic-page2/11comic-page2-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/12/arts/11comic-page2/11comic-page2-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/303cf096-2732-52de-9979-44aef0572817",
+      "url": "https://www.nytimes.com/2021/10/09/health/researchers-find-a-higher-than-expected-risk-of-myocarditis-in-young-men-after-full-vaccination.html",
+      "id": 100000008011255,
+      "asset_id": 100000008011255,
+      "source": "New York Times",
+      "published_date": "2021-10-06",
+      "updated": "2021-10-11 17:01:32",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Heart;Vaccination and Immunization;Coronavirus (2019-nCoV);Men and Boys;Moderna Inc;Pfizer Inc;New England Journal of Medicine",
+      "column": null,
+      "byline": "By Apoorva Mandavilli",
+      "type": "Article",
+      "title": "Researchers find a higher than expected risk of myocarditis in young men after full vaccination.",
+      "abstract": "But the risk remained rare, and the condition temporary, the team found.",
+      "des_facet": [
+        "Heart",
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "Men and Boys"
+      ],
+      "org_facet": [
+        "Moderna Inc",
+        "Pfizer Inc",
+        "New England Journal of Medicine"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Adam Osman, 17, receives his first dose of the Pfizer-BioNtech vaccine at ACCESS, an Arab American social services organization in Dearborn, Mich., in April.",
+          "copyright": "Emily Rose Bennett for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/06/us/06virus-briefing-heart-02/06virus-briefing-heart-02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/06/us/06virus-briefing-heart-02/06virus-briefing-heart-02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/06/us/06virus-briefing-heart-02/06virus-briefing-heart-02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/619d55a3-ffe0-5c7b-b66d-a7090f94e9be",
+      "url": "https://www.nytimes.com/2021/09/30/realestate/best-places-to-have-babies.html",
+      "id": 100000007990223,
+      "asset_id": 100000007990223,
+      "source": "New York Times",
+      "published_date": "2021-09-30",
+      "updated": "2021-10-03 09:52:14",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Real Estate and Housing (Residential);Medicine and Health;States (US);Infant Mortality;Parenting;Babies and Infants;Pregnancy and Childbirth;United States",
+      "column": null,
+      "byline": "By Michael Kolomatsky",
+      "type": "Article",
+      "title": "The Best Places to Have Babies",
+      "abstract": "A new study compares health care costs, accessibility to care, and baby- and family-friendliness in the 50 states and Washington, D.C.",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Medicine and Health",
+        "States (US)",
+        "Infant Mortality",
+        "Parenting",
+        "Babies and Infants",
+        "Pregnancy and Childbirth"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/30/realestate/30calculator-1632432379265/30calculator-1632432379265-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/30/realestate/30calculator-1632432379265/30calculator-1632432379265-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/30/realestate/30calculator-1632432379265/30calculator-1632432379265-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/69f6fe4a-c466-5746-9a8d-12e4ea7d6a94",
+      "url": "https://www.nytimes.com/2021/10/06/business/debt-ceiling-social-security-medicare.html",
+      "id": 100000008008787,
+      "asset_id": 100000008008787,
+      "source": "New York Times",
+      "published_date": "2021-10-06",
+      "updated": "2021-10-08 19:18:58",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "United States Economy;National Debt (US);Social Security (US);Federal Budget (US);United States Politics and Government;Treasury Department;Senate",
+      "column": null,
+      "byline": "By Tara Siegel Bernard",
+      "type": "Article",
+      "title": "What the Debt Ceiling Means for Social Security and More",
+      "abstract": "The Treasury secretary says the government will run out of money to spend if Congress doesn\u2019t raise the debt ceiling. Here\u2019s what that could mean for programs that help millions of Americans.",
+      "des_facet": [
+        "United States Economy",
+        "National Debt (US)",
+        "Social Security (US)",
+        "Federal Budget (US)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Treasury Department",
+        "Senate"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Treasury Secretary Janet Yellen during a Senate committee hearing last week.",
+          "copyright": "Stefani Reynolds for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/06/business/06ceiling-benefits/06ceiling-benefits-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/06/business/06ceiling-benefits/06ceiling-benefits-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/06/business/06ceiling-benefits/06ceiling-benefits-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a0157c43-a62f-5e23-b8f7-675306baecaf",
+      "url": "https://www.nytimes.com/2021/10/08/world/asia/singapore-vaccine-covid.html",
+      "id": 100000007990828,
+      "asset_id": 100000007990828,
+      "source": "New York Times",
+      "published_date": "2021-10-08",
+      "updated": "2021-10-12 00:15:47",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "nytdsection": "world",
+      "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Coronavirus Reopenings;Disease Rates;Quarantines;Singapore",
+      "column": null,
+      "byline": "By Sui-Lee Wee",
+      "type": "Article",
+      "title": "They Had the Vaccines and a Plan to Reopen. Instead They Got Cold Feet.",
+      "abstract": "Singapore\u2019s experience offers lessons for other countries that want to reduce pandemic restrictions but have yet to deal with widespread infections.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Coronavirus Reopenings",
+        "Disease Rates",
+        "Quarantines"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Singapore"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Walking outside in Singapore, where an early response to the pandemic helped keep infections low.",
+          "copyright": "Ore Huiying for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/30/world/00virus-singapore-1/00virus-singapore-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/30/world/00virus-singapore-1/00virus-singapore-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/30/world/00virus-singapore-1/00virus-singapore-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/93428522-9ae6-5263-9b11-c56785ff068a",
+      "url": "https://www.nytimes.com/2021/10/09/arts/music/bolshoi-performer-killed.html",
+      "id": 100000008017223,
+      "asset_id": 100000008017223,
+      "source": "New York Times",
+      "published_date": "2021-10-09",
+      "updated": "2021-10-10 13:56:03",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Deaths (Fatalities);Accidents and Safety;Opera;Bolshoi Theater;Moscow (Russia)",
+      "column": null,
+      "byline": "By Javier C. Hern\u00e1ndez",
+      "type": "Article",
+      "title": "Bolshoi Performer Is Killed in Onstage Accident",
+      "abstract": "The man, in his late 30s, was crushed during a scene change as the opera \u201cSadko\u201d was performed before an audience, the theater said.",
+      "des_facet": [
+        "Deaths (Fatalities)",
+        "Accidents and Safety",
+        "Opera"
+      ],
+      "org_facet": [
+        "Bolshoi Theater"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Moscow (Russia)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A performer was killed onstage at the Bolshoi Theater in Moscow on Saturday during a performance of Nikolai Rimsky-Korsakov\u2019s \u201cSadko.\u201d",
+          "copyright": "Sergey Ponomarev for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/09/arts/09bolshoi-1/09bolshoi-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/09/arts/09bolshoi-1/09bolshoi-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/09/arts/09bolshoi-1/09bolshoi-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8a12059e-67e4-5d60-bc35-c713d2db5922",
+      "url": "https://www.nytimes.com/2021/10/11/us/theresa-bentaas-conviction-manslaughter.html",
+      "id": 100000008018716,
+      "asset_id": 100000008018716,
+      "source": "New York Times",
+      "published_date": "2021-10-11",
+      "updated": "2021-10-12 11:40:27",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Forensic Science;DNA (Deoxyribonucleic Acid);Murders, Attempted Murders and Homicides;Bentaas, Theresa R;Sioux Falls (SD)",
+      "column": null,
+      "byline": "By Johnny Diaz",
+      "type": "Article",
+      "title": "40-Year-Old Cold Case of South Dakota Baby Ends With Conviction",
+      "abstract": "Decades after a baby was found by the road, DNA testing led to criminal charges. On Friday, a woman entered an Alford plea in the case, accepting a guilty plea for manslaughter without admitting to the crime.",
+      "des_facet": [
+        "Forensic Science",
+        "DNA (Deoxyribonucleic Acid)",
+        "Murders, Attempted Murders and Homicides"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bentaas, Theresa R"
+      ],
+      "geo_facet": [
+        "Sioux Falls (SD)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Theresa Bentaas walking in the Minnehaha Courthouse in Sioux Falls, S.D., in 2019. Prosecutors dismissed murder charges against Ms. Bentaas, who entered an Alford plea in the case.",
+          "copyright": "Briana Sanchez/Argus Leader, USA Today Network",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/11/multimedia/11xp-manslaughter-1/11xp-manslaughter-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/11/multimedia/11xp-manslaughter-1/11xp-manslaughter-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/11/multimedia/11xp-manslaughter-1/11xp-manslaughter-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dcc66521-10e1-5fca-8036-095c9f47c928",
+      "url": "https://www.nytimes.com/2021/10/12/health/if-youve-had-covid-do-you-need-the-vaccine.html",
+      "id": 100000008000051,
+      "asset_id": 100000008000051,
+      "source": "New York Times",
+      "published_date": "2021-10-12",
+      "updated": "2021-10-13 06:34:56",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "your-feed-science;Coronavirus (2019-nCoV);Vaccination and Immunization;Antibodies;Immune System;Disease Rates",
+      "column": null,
+      "byline": "By Apoorva Mandavilli",
+      "type": "Article",
+      "title": "If You\u2019ve Had Covid, Do You Need the Vaccine?",
+      "abstract": "So-called natural immunity varies from patient to patient, scientists say. Immunization is still the best choice after recovering from the disease.",
+      "des_facet": [
+        "your-feed-science",
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Antibodies",
+        "Immune System",
+        "Disease Rates"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Covid patient in isolation at the University of Arkansas in Little Rock, Ark., in August.\u00a0",
+          "copyright": "Shannon Stapleton/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/11/science/11virus-immunity1/11virus-immunity1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/11/science/11virus-immunity1/11virus-immunity1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/11/science/11virus-immunity1/11virus-immunity1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/85a03153-20cb-5b65-b9e5-baf758f5dbfe",
+      "url": "https://www.nytimes.com/2021/10/08/nyregion/another-vaccine-mandate-takes-effect.html",
+      "id": 100000008006768,
+      "asset_id": 100000008006768,
+      "source": "New York Times",
+      "published_date": "2021-10-08",
+      "updated": "2021-10-10 10:27:12",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);Home Health Care;Opera;Classical Music;New York City",
+      "column": null,
+      "byline": "By James Barron",
+      "type": "Article",
+      "title": "Another Vaccine Mandate Takes Effect",
+      "abstract": "Home health care workers must now be vaccinated in New York State.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "Home Health Care",
+        "Opera",
+        "Classical Music"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "James Estrin/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/08/nyregion/08nytoday-homehealthcare/merlin_187438365_86291e19-9b0b-4c51-964f-d94419f18d12-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/08/nyregion/08nytoday-homehealthcare/merlin_187438365_86291e19-9b0b-4c51-964f-d94419f18d12-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/08/nyregion/08nytoday-homehealthcare/merlin_187438365_86291e19-9b0b-4c51-964f-d94419f18d12-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/40550063-3a0a-52c8-8d38-d49aabe82b8a",
+      "url": "https://www.nytimes.com/2021/10/05/magazine/dorland-v-larson.html",
+      "id": 100000008002164,
+      "asset_id": 100000008002164,
+      "source": "New York Times",
+      "published_date": "2021-10-05",
+      "updated": "2021-10-12 09:50:08",
+      "section": "Magazine",
+      "subsection": "",
+      "nytdsection": "magazine",
+      "adx_keywords": "Writing and Writers;Letters;Kidneys;Organ Donation;Race and Ethnicity;Suits and Litigation (Civil);Copyrights and Copyright Violations;Plagiarism;Content Type: Personal Profile;Larson, Sonya;Dorland, Dawn",
+      "column": null,
+      "byline": "By Robert Kolker",
+      "type": "Article",
+      "title": "Who Is the Bad Art Friend?",
+      "abstract": "Art often draws inspiration from life \u2014 but what happens when it\u2019s your life? Inside the curious case of Dawn Dorland v. Sonya Larson.",
+      "des_facet": [
+        "Writing and Writers",
+        "Letters",
+        "Kidneys",
+        "Organ Donation",
+        "Race and Ethnicity",
+        "Suits and Litigation (Civil)",
+        "Copyrights and Copyright Violations",
+        "Plagiarism",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Larson, Sonya",
+        "Dorland, Dawn"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Pablo Delcan",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-art-1/10mag-art-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-art-1/10mag-art-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-art-1/10mag-art-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2816558d-0906-52e1-a3e6-967cfb3c5fb4",
+      "url": "https://www.nytimes.com/2021/10/07/world/africa/ndakasi-the-mountain-gorilla-selfie.html",
+      "id": 100000008012520,
+      "asset_id": 100000008012520,
+      "source": "New York Times",
+      "published_date": "2021-10-07",
+      "updated": "2021-10-09 22:28:40",
+      "section": "World",
+      "subsection": "Africa",
+      "nytdsection": "world",
+      "adx_keywords": "Monkeys and Apes;Endangered and Extinct Species;Wildlife Trade and Poaching;Virunga National Park (Congo, Democratic Republic of)",
+      "column": null,
+      "byline": "By Azi Paybarah",
+      "type": "Article",
+      "title": "Ndakasi, Gorilla Who Photobombed a Selfie, Dies in the Arms of Her Caretaker",
+      "abstract": "She died at age 14 in the Democratic Republic of Congo after \u201ca prolonged illness,\u201d said the park where she lived.",
+      "des_facet": [
+        "Monkeys and Apes",
+        "Endangered and Extinct Species",
+        "Wildlife Trade and Poaching"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Virunga National Park (Congo, Democratic Republic of)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ndakasi with her caregiver, Andre Bauma, a few days before her death on Sept. 26 at Virunga National Park in the Democratic Republic of Congo.",
+          "copyright": "Brent Stirton/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/07/us/07xp-Gorilla/07xp-Gorilla-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/07/us/07xp-Gorilla/07xp-Gorilla-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/07/us/07xp-Gorilla/07xp-Gorilla-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/21eae17a-8f59-5a75-8c2b-7e2919a33aaf",
+      "url": "https://www.nytimes.com/2021/09/30/us/yale-vinland-map-fake.html",
+      "id": 100000007996944,
+      "asset_id": 100000007996944,
+      "source": "New York Times",
+      "published_date": "2021-09-30",
+      "updated": "2021-10-05 00:31:10",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Maps;Vikings;Middle Ages (Historical Period);Geography;Forgery;Research;Libraries and Librarians;Archaeology and Anthropology;Yale Beinecke Rare Book and Manuscript Library;Yale University;Europe;Greenland",
+      "column": null,
+      "byline": "By Alan Yuhas",
+      "type": "Article",
+      "title": "Yale Says Its Vinland Map, Once Called a Medieval Treasure, Is Fake",
+      "abstract": "For decades, researchers at Yale and elsewhere have questioned the authenticity of a map that seemed to reflect Viking travels to North America. The school now says the case is closed.",
+      "des_facet": [
+        "Maps",
+        "Vikings",
+        "Middle Ages (Historical Period)",
+        "Geography",
+        "Forgery",
+        "Research",
+        "Libraries and Librarians",
+        "Archaeology and Anthropology"
+      ],
+      "org_facet": [
+        "Yale Beinecke Rare Book and Manuscript Library",
+        "Yale University"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Europe",
+        "Greenland"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Vinland Map was unveiled in 1965 by a Yale team that believed it was made in 1440. A new team found a titanium compound used in inks first produced in the 1920s.",
+          "copyright": "VCG Wilson/Corbis via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/05/us/00xp-vinland-map/00xp-vinland-map-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/05/us/00xp-vinland-map/00xp-vinland-map-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/05/us/00xp-vinland-map/00xp-vinland-map-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/73f4a76d-c5b1-5b70-ad84-56e346733ba8",
+      "url": "https://www.nytimes.com/2021/10/11/world/australia/facebook-post-missing-apostrophe-defamation.html",
+      "id": 100000008018325,
+      "asset_id": 100000008018325,
+      "source": "New York Times",
+      "published_date": "2021-10-11",
+      "updated": "2021-10-11 23:33:03",
+      "section": "World",
+      "subsection": "Australia",
+      "nytdsection": "world",
+      "adx_keywords": "Libel and Slander;Grammar;Social Media;Compensation for Damages (Law);internal-storyline-no;Gan, Stuart;Zadravic, Anthony;Facebook Inc;Australia",
+      "column": null,
+      "byline": "By Livia Albeck-Ripka",
+      "type": "Article",
+      "title": "Missing Apostrophe in Facebook Post Lands a Man in Defamation Court",
+      "abstract": "An Australian man claimed a real estate agent did not pay its \u201cemployees\u201d retirement funds. The lack of a punctuation mark may cost him thousands.",
+      "des_facet": [
+        "Libel and Slander",
+        "Grammar",
+        "Social Media",
+        "Compensation for Damages (Law)",
+        "internal-storyline-no"
+      ],
+      "org_facet": [
+        "Facebook Inc"
+      ],
+      "per_facet": [
+        "Gan, Stuart",
+        "Zadravic, Anthony"
+      ],
+      "geo_facet": [
+        "Australia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/08/11/world/oz-apostrophe-img/oz-apostrophe-img-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/08/11/world/oz-apostrophe-img/oz-apostrophe-img-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/08/11/world/oz-apostrophe-img/oz-apostrophe-img-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5bc6a19e-2a75-5faf-878e-64fc58df271b",
+      "url": "https://www.nytimes.com/2021/10/08/world/chicagos-mayor-gutted-the-citys-vaccinate-mandate-for-public-workers.html",
+      "id": 100000008016725,
+      "asset_id": 100000008016725,
+      "source": "New York Times",
+      "published_date": "2021-10-08",
+      "updated": "2021-10-09 11:25:24",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Alexandra E. Petri",
+      "type": "Article",
+      "title": "Chicago\u2019s mayor guts the city\u2019s vaccine mandate for public workers.",
+      "abstract": "A day after President Biden visited to issue a national plea for more vaccine mandates, Mayor Lori Lightfoot said Chicago\u2019s public workers could opt out of the city\u2019s until the end of the year by getting regularly tested.",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A view of Chicago last winter. Mayor Lori Lightfoot said on Friday that city employees could avoid the vaccine mandate she issued in August by getting tested twice a week through the end of the year.",
+          "copyright": "Shannon Stapleton/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/08/lens/08virus-briefing-chicago-01/08virus-briefing-chicago-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/08/lens/08virus-briefing-chicago-01/08virus-briefing-chicago-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/08/lens/08virus-briefing-chicago-01/08virus-briefing-chicago-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7797e7ad-666c-5a3d-af07-6a3183e917f0",
+      "url": "https://www.nytimes.com/2021/10/07/us/yellowstone-grizzly-bear-woman-arrested.html",
+      "id": 100000008014174,
+      "asset_id": 100000008014174,
+      "source": "New York Times",
+      "published_date": "2021-10-07",
+      "updated": "2021-10-08 16:42:47",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Bears;National Parks, Monuments and Seashores;Dehring, Samantha;Yellowstone National Park",
+      "column": null,
+      "byline": "By Jesus Jim\u00e9nez",
+      "type": "Article",
+      "title": "Woman Jailed for Close Encounter With Grizzly and Cubs at Yellowstone",
+      "abstract": "The woman was sentenced to four days in jail and was barred from the park for a year for not yielding space to the bear and three cubs.",
+      "des_facet": [
+        "Bears",
+        "National Parks, Monuments and Seashores"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Dehring, Samantha"
+      ],
+      "geo_facet": [
+        "Yellowstone National Park"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A grizzly bear with two cubs at Yellowstone National Park in 2015. The park has regulations that prohibit visitors from getting too close to large wildlife.\u00a0",
+          "copyright": "Jim Urquhart/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/07/multimedia/07XP-grizzly/07XP-grizzly-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/07/multimedia/07XP-grizzly/07XP-grizzly-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/07/multimedia/07XP-grizzly/07XP-grizzly-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

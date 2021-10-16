@@ -1,0 +1,1901 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+  "section": "Science",
+  "last_updated": "2021-10-14T14:00:47-04:00",
+  "num_results": 23,
+  "results": [
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Dr. Eric Cassell, Bioethicist Who Put the Patient First, Dies at 93",
+      "abstract": "A professor and prolific author, he cautioned that doctors too often focus on the disease instead of the overall well-being of the sufferer.",
+      "url": "https://www.nytimes.com/2021/10/14/science/eric-cassell-dead.html",
+      "uri": "nyt://article/18ce1247-a70e-5dc2-814e-6a7b201b9996",
+      "byline": "By Sam Roberts",
+      "item_type": "Article",
+      "updated_date": "2021-10-14T17:42:14-04:00",
+      "created_date": "2021-10-14T17:35:58-04:00",
+      "published_date": "2021-10-14T17:35:58-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Death and Dying"
+      ],
+      "org_facet": [
+        "Hastings Center",
+        "Weill Cornell Medical College"
+      ],
+      "per_facet": [
+        "Cassell, Eric"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/obituaries/13Cassell1/13Cassell1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1781,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The medical ethicist Dr. Eric Cassell in 2013. He was at the forefront of efforts to emphasize palliative care in treating patients.",
+          "copyright": "HIRO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/obituaries/13Cassell1/13Cassell1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The medical ethicist Dr. Eric Cassell in 2013. He was at the forefront of efforts to emphasize palliative care in treating patients.",
+          "copyright": "HIRO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/obituaries/13Cassell1/13Cassell1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The medical ethicist Dr. Eric Cassell in 2013. He was at the forefront of efforts to emphasize palliative care in treating patients.",
+          "copyright": "HIRO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/obituaries/13Cassell1/13Cassell1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The medical ethicist Dr. Eric Cassell in 2013. He was at the forefront of efforts to emphasize palliative care in treating patients.",
+          "copyright": "HIRO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/obituaries/13Cassell1/13Cassell1-articleInline.jpg",
+          "format": "Normal",
+          "height": 219,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The medical ethicist Dr. Eric Cassell in 2013. He was at the forefront of efforts to emphasize palliative care in treating patients.",
+          "copyright": "HIRO"
+        }
+      ],
+      "short_url": "https://nyti.ms/3j12j56"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "\u2018Lurching Between Crisis and Complacency\u2019: Was This Our Last Covid Surge?",
+      "abstract": "Rising immunity and modest changes in behavior may explain why cases are declining, but much remains unknown, scientists say.",
+      "url": "https://www.nytimes.com/2021/10/14/health/coronavirus-delta-surge.html",
+      "uri": "nyt://article/8c095437-4f7f-5c22-8a78-2d6aac48e826",
+      "byline": "By Emily Anthes",
+      "item_type": "Article",
+      "updated_date": "2021-10-14T23:19:08-04:00",
+      "created_date": "2021-10-14T10:15:12-04:00",
+      "published_date": "2021-10-14T10:15:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Coronavirus Reopenings",
+        "Disease Rates",
+        "Coronavirus Delta Variant",
+        "Quarantine (Life and Culture)",
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "your-feed-health"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/00virus-delta1/merlin_192685968_008fd525-79f2-4a44-8eb5-0a60ed77498e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vaccinations at the Unidos En Salud community vaccination and testing site in San Francisco this summer. Infections are down more than 40 percent since August.",
+          "copyright": "Mike Kai Chen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/00virus-delta1/00virus-delta1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vaccinations at the Unidos En Salud community vaccination and testing site in San Francisco this summer. Infections are down more than 40 percent since August.",
+          "copyright": "Mike Kai Chen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/00virus-delta1/00virus-delta1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vaccinations at the Unidos En Salud community vaccination and testing site in San Francisco this summer. Infections are down more than 40 percent since August.",
+          "copyright": "Mike Kai Chen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/00virus-delta1/00virus-delta1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vaccinations at the Unidos En Salud community vaccination and testing site in San Francisco this summer. Infections are down more than 40 percent since August.",
+          "copyright": "Mike Kai Chen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/00virus-delta1/merlin_192685968_008fd525-79f2-4a44-8eb5-0a60ed77498e-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vaccinations at the Unidos En Salud community vaccination and testing site in San Francisco this summer. Infections are down more than 40 percent since August.",
+          "copyright": "Mike Kai Chen for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3vbmF0s"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "The Most Important Global Meeting You\u2019ve Probably Never Heard Of Is Now",
+      "abstract": "Countries are gathering in an effort to stop a biodiversity collapse that scientists say could equal climate change as an existential crisis.",
+      "url": "https://www.nytimes.com/2021/10/14/climate/un-biodiversity-conference-climate-change.html",
+      "uri": "nyt://article/9ddb6cc7-61bd-52b0-9df4-f3fc01c7f1a0",
+      "byline": "By Catrin Einhorn",
+      "item_type": "Article",
+      "updated_date": "2021-10-14T23:38:16-04:00",
+      "created_date": "2021-10-14T05:00:15-04:00",
+      "published_date": "2021-10-14T05:00:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Biodiversity",
+        "United Nations Convention on Biological Diversity",
+        "United Nations Framework Convention on Climate Change",
+        "Endangered and Extinct Species",
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Carbon Dioxide"
+      ],
+      "org_facet": [
+        "Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services",
+        "United Nations"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Kunming (China)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/14/climate/14cli-biodiversity1/14cli-biodiversity1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Opening ceremonies at the\u00a015th United Nations biodiversity conference in Kunming, China, on Monday.",
+          "copyright": "Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/14/climate/14cli-biodiversity1/14cli-biodiversity1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Opening ceremonies at the\u00a015th United Nations biodiversity conference in Kunming, China, on Monday.",
+          "copyright": "Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/14/climate/14cli-biodiversity1/14cli-biodiversity1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Opening ceremonies at the\u00a015th United Nations biodiversity conference in Kunming, China, on Monday.",
+          "copyright": "Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/14/climate/14cli-biodiversity1/14cli-biodiversity1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Opening ceremonies at the\u00a015th United Nations biodiversity conference in Kunming, China, on Monday.",
+          "copyright": "Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/14/climate/14cli-biodiversity1/14cli-biodiversity1-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Opening ceremonies at the\u00a015th United Nations biodiversity conference in Kunming, China, on Monday.",
+          "copyright": "Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/30pK2Z0"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Data From Federal Scientists Raise Questions About J.&J. Booster Shots",
+      "abstract": "People who have received the company\u2019s one-shot vaccine may benefit from a booster with another brand. F.D.A. advisers will discuss the data on Friday.",
+      "url": "https://www.nytimes.com/2021/10/13/health/johnson-booster-shots-fda.html",
+      "uri": "nyt://article/eded92a8-3400-5598-b6c5-9b46f4cb11e6",
+      "byline": "By Carl Zimmer and Noah Weiland",
+      "item_type": "Article",
+      "updated_date": "2021-10-14T15:42:48-04:00",
+      "created_date": "2021-10-13T18:37:13-04:00",
+      "published_date": "2021-10-13T18:37:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Clinical Trials",
+        "Research",
+        "United States Politics and Government",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Johnson & Johnson",
+        "Pfizer Inc",
+        "Moderna Inc",
+        "Food and Drug Administration",
+        "National Institutes of Health"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13virus-boosters1/13virus-boosters1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Preparing a Pfizer booster shot at a mobile vaccine clinic in McMinnville, Ore., this month.",
+          "copyright": "Alisha Jucevic for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13virus-boosters1/13virus-boosters1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Preparing a Pfizer booster shot at a mobile vaccine clinic in McMinnville, Ore., this month.",
+          "copyright": "Alisha Jucevic for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13virus-boosters1/13virus-boosters1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Preparing a Pfizer booster shot at a mobile vaccine clinic in McMinnville, Ore., this month.",
+          "copyright": "Alisha Jucevic for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13virus-boosters1/13virus-boosters1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Preparing a Pfizer booster shot at a mobile vaccine clinic in McMinnville, Ore., this month.",
+          "copyright": "Alisha Jucevic for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13virus-boosters1/13virus-boosters1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Preparing a Pfizer booster shot at a mobile vaccine clinic in McMinnville, Ore., this month.",
+          "copyright": "Alisha Jucevic for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3v90mZi"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "2021 Has Been a Bad Year for Manatees",
+      "abstract": "Manatees in Florida have been dying at an alarming rate, with the state losing about 10 percent of its population in just a year.",
+      "url": "https://www.nytimes.com/interactive/2021/10/13/science/florida-manatees.html",
+      "uri": "nyt://interactive/dec1d339-c856-578e-9d3e-484efb645371",
+      "byline": "",
+      "item_type": "Interactive",
+      "updated_date": "2021-10-13T15:32:21-04:00",
+      "created_date": "2021-10-13T15:32:21-04:00",
+      "published_date": "2021-10-13T15:32:21-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Manatees",
+        "Fish and Other Marine Life"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Florida"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/multimedia/00xp-manatee-2/00xp-manatee-2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Red Huber/Orlando Sentinel, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/multimedia/00xp-manatee-2/00xp-manatee-2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Red Huber/Orlando Sentinel, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/multimedia/00xp-manatee-2/00xp-manatee-2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Red Huber/Orlando Sentinel, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/multimedia/00xp-manatee-2/00xp-manatee-2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Red Huber/Orlando Sentinel, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/multimedia/00xp-manatee-2/00xp-manatee-2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Red Huber/Orlando Sentinel, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lF1yRg"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "Biden Administration Plans Wind Farms Along Nearly the Entire U.S. Coastline",
+      "abstract": "Interior Secretary Deb Haaland announced that her agency will formally begin the process of identifying federal waters to lease to wind developers by 2025.",
+      "url": "https://www.nytimes.com/2021/10/13/climate/biden-offshore-wind-farms.html",
+      "uri": "nyt://article/62a4a61c-968c-5df3-b612-46c230555347",
+      "byline": "By Coral Davenport",
+      "item_type": "Article",
+      "updated_date": "2021-10-14T08:20:21-04:00",
+      "created_date": "2021-10-13T15:08:01-04:00",
+      "published_date": "2021-10-13T15:08:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Wind Power",
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Alternative and Renewable Energy",
+        "Electric Light and Power",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Interior Department"
+      ],
+      "per_facet": [
+        "Haaland, Deb"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/climate/13cli-wind/13cli-wind-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Block Island Wind Farm off the coast of Rhode Island.",
+          "copyright": "Kayana Szymczak for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/climate/13cli-wind/13cli-wind-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Block Island Wind Farm off the coast of Rhode Island.",
+          "copyright": "Kayana Szymczak for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/climate/13cli-wind/13cli-wind-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Block Island Wind Farm off the coast of Rhode Island.",
+          "copyright": "Kayana Szymczak for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/climate/13cli-wind/13cli-wind-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Block Island Wind Farm off the coast of Rhode Island.",
+          "copyright": "Kayana Szymczak for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/climate/13cli-wind/13cli-wind-articleInline.jpg",
+          "format": "Normal",
+          "height": 138,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Block Island Wind Farm off the coast of Rhode Island.",
+          "copyright": "Kayana Szymczak for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3AFkh3l"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Back on Earth, Shatner and Bezos have a Kirk-Spock moment.",
+      "abstract": "After the Blue Origin crew set down, science fiction met reality.",
+      "url": "https://www.nytimes.com/2021/10/13/science/bezos-shatner-star-trek.html",
+      "uri": "nyt://article/8dc9154f-7305-5c7f-8ad4-87fb9cac79a3",
+      "byline": "By David Streitfeld",
+      "item_type": "Article",
+      "updated_date": "2021-10-13T14:27:32-04:00",
+      "created_date": "2021-10-13T13:44:10-04:00",
+      "published_date": "2021-10-13T13:44:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Star Trek (TV Program)",
+        "Private Spaceflight",
+        "Space and Astronomy"
+      ],
+      "org_facet": [
+        "Amazon.com Inc",
+        "Blue Origin"
+      ],
+      "per_facet": [
+        "Bezos, Jeffrey P",
+        "Shatner, William"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-jeff-bezos/13shatner-launch-jeff-bezos-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWe say, \u2018Oh that\u2019s blue sky.\u2019 And then suddenly you shoot through it and all of a sudden, like you whip the sheet off you when you\u2019re asleep, you\u2019re looking into blackness,\u201d Mr. Shatner said Wednesday.",
+          "copyright": "Blue Origin, via EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-jeff-bezos/13shatner-launch-jeff-bezos-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWe say, \u2018Oh that\u2019s blue sky.\u2019 And then suddenly you shoot through it and all of a sudden, like you whip the sheet off you when you\u2019re asleep, you\u2019re looking into blackness,\u201d Mr. Shatner said Wednesday.",
+          "copyright": "Blue Origin, via EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-jeff-bezos/13shatner-launch-jeff-bezos-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWe say, \u2018Oh that\u2019s blue sky.\u2019 And then suddenly you shoot through it and all of a sudden, like you whip the sheet off you when you\u2019re asleep, you\u2019re looking into blackness,\u201d Mr. Shatner said Wednesday.",
+          "copyright": "Blue Origin, via EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-jeff-bezos/13shatner-launch-jeff-bezos-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWe say, \u2018Oh that\u2019s blue sky.\u2019 And then suddenly you shoot through it and all of a sudden, like you whip the sheet off you when you\u2019re asleep, you\u2019re looking into blackness,\u201d Mr. Shatner said Wednesday.",
+          "copyright": "Blue Origin, via EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-jeff-bezos/13shatner-launch-jeff-bezos-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWe say, \u2018Oh that\u2019s blue sky.\u2019 And then suddenly you shoot through it and all of a sudden, like you whip the sheet off you when you\u2019re asleep, you\u2019re looking into blackness,\u201d Mr. Shatner said Wednesday.",
+          "copyright": "Blue Origin, via EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/3FHQRFm"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "The W.H.O. names an advisory group to study the origins of the pandemic.",
+      "abstract": "The group includes scientists from 26 countries, a reflection of the W.H.O.\u2019s effort to amass widespread international support for the work.",
+      "url": "https://www.nytimes.com/2021/10/13/science/who-coronavirus-origins.html",
+      "uri": "nyt://article/7d063098-e491-5bbe-9232-989beecd2efe",
+      "byline": "By Benjamin Mueller",
+      "item_type": "Article",
+      "updated_date": "2021-10-13T16:47:08-04:00",
+      "created_date": "2021-10-13T11:45:07-04:00",
+      "published_date": "2021-10-13T11:45:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Research"
+      ],
+      "org_facet": [
+        "World Health Organization"
+      ],
+      "per_facet": [
+        "Tedros Adhanom Ghebreyesus",
+        "Damon, Inger",
+        "Yang, Yungui (Researcher)"
+      ],
+      "geo_facet": [
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/us/13virus-briefing-WHO-02/merlin_185726352_6fed3dbd-2d8f-4ecd-9c09-cac82a4e6c00-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dominic Dwyer, a member of a since-disbanded World Health Organization team that investigated the origins of the coronavirus, arriving at the Wuhan Institute of Virology in China, in February.\u00a0",
+          "copyright": "Thomas Peter/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/us/13virus-briefing-WHO-02/13virus-briefing-WHO-02-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dominic Dwyer, a member of a since-disbanded World Health Organization team that investigated the origins of the coronavirus, arriving at the Wuhan Institute of Virology in China, in February.\u00a0",
+          "copyright": "Thomas Peter/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/us/13virus-briefing-WHO-02/13virus-briefing-WHO-02-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dominic Dwyer, a member of a since-disbanded World Health Organization team that investigated the origins of the coronavirus, arriving at the Wuhan Institute of Virology in China, in February.\u00a0",
+          "copyright": "Thomas Peter/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/us/13virus-briefing-WHO-02/13virus-briefing-WHO-02-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dominic Dwyer, a member of a since-disbanded World Health Organization team that investigated the origins of the coronavirus, arriving at the Wuhan Institute of Virology in China, in February.\u00a0",
+          "copyright": "Thomas Peter/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/us/13virus-briefing-WHO-02/merlin_185726352_6fed3dbd-2d8f-4ecd-9c09-cac82a4e6c00-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dominic Dwyer, a member of a since-disbanded World Health Organization team that investigated the origins of the coronavirus, arriving at the Wuhan Institute of Virology in China, in February.\u00a0",
+          "copyright": "Thomas Peter/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2YMroK4"
+    },
+    {
+      "section": "science",
+      "subsection": "space",
+      "title": "How much does a ticket to space on New Shepard cost? Blue Origin isn\u2019t saying.",
+      "abstract": "The company said in July it had nearly $100 million in sales, but not how many tickets that included.",
+      "url": "https://www.nytimes.com/2021/10/13/science/space/blue-origin-ticket-cost.html",
+      "uri": "nyt://article/3b0af804-70c3-53f8-8172-cfa319d8e065",
+      "byline": "By Joey Roulette",
+      "item_type": "Article",
+      "updated_date": "2021-10-13T11:18:16-04:00",
+      "created_date": "2021-10-13T11:12:04-04:00",
+      "published_date": "2021-10-13T11:12:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Private Spaceflight",
+        "Rocket Science and Propulsion",
+        "Space and Astronomy",
+        "Travel and Vacations"
+      ],
+      "org_facet": [
+        "Blue Origin",
+        "Virgin Galactic",
+        "Space Exploration Technologies Corp"
+      ],
+      "per_facet": [
+        "Daemen, Oliver",
+        "Shatner, William",
+        "Bezos, Jeffrey P"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-new-shepard-cost/13shatner-launch-new-shepard-cost-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Oliver Daemen occupied a seat on the New Shepard that Blue Origin auctioned off for $28 million.",
+          "copyright": "Blue Origin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-new-shepard-cost/13shatner-launch-new-shepard-cost-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Oliver Daemen occupied a seat on the New Shepard that Blue Origin auctioned off for $28 million.",
+          "copyright": "Blue Origin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-new-shepard-cost/13shatner-launch-new-shepard-cost-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Oliver Daemen occupied a seat on the New Shepard that Blue Origin auctioned off for $28 million.",
+          "copyright": "Blue Origin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-new-shepard-cost/13shatner-launch-new-shepard-cost-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Oliver Daemen occupied a seat on the New Shepard that Blue Origin auctioned off for $28 million.",
+          "copyright": "Blue Origin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-new-shepard-cost/13shatner-launch-new-shepard-cost-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Oliver Daemen occupied a seat on the New Shepard that Blue Origin auctioned off for $28 million.",
+          "copyright": "Blue Origin"
+        }
+      ],
+      "short_url": "https://nyti.ms/3FMxIlU"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "At 90, William Shatner becomes the oldest person to reach \u2018the final frontier.\u2019",
+      "abstract": "The previous record holder was Wally Funk, 82, who flew on Blue Origin in July.",
+      "url": "https://www.nytimes.com/2021/10/13/science/william-shatner-space.html",
+      "uri": "nyt://article/19681623-729a-5991-a5cc-d79007fad54d",
+      "byline": "By Daniel E. Slotnik",
+      "item_type": "Article",
+      "updated_date": "2021-10-13T17:34:09-04:00",
+      "created_date": "2021-10-13T11:00:14-04:00",
+      "published_date": "2021-10-13T11:00:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Private Spaceflight",
+        "Space and Astronomy",
+        "Age, Chronological",
+        "Longevity",
+        "Elderly"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Shatner, William",
+        "Funk, Wally",
+        "Glenn, John Herschel Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-oldest-person-sub/13shatner-launch-oldest-person-sub-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Shatner in 2018.",
+          "copyright": "Steven Senne/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-oldest-person-sub/13shatner-launch-oldest-person-sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Shatner in 2018.",
+          "copyright": "Steven Senne/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-oldest-person-sub/13shatner-launch-oldest-person-sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Shatner in 2018.",
+          "copyright": "Steven Senne/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-oldest-person-sub/merlin_137770455_00cb23a1-ad27-4748-aefd-d130ba73d1ec-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Shatner in 2018.",
+          "copyright": "Steven Senne/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-oldest-person-sub/13shatner-launch-oldest-person-sub-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Shatner in 2018.",
+          "copyright": "Steven Senne/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3oYNCDJ"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Many \u2018Star Trek\u2019 fans are eager to see William Shatner boldly go to space.",
+      "abstract": "The series\u2019 longtime viewers said they were excited to see the man who played Captain Kirk make science fiction seem a bit more real.",
+      "url": "https://www.nytimes.com/2021/10/13/science/star-trek-captain-kirk-william-shatner.html",
+      "uri": "nyt://article/b72a9a2e-3c3b-5d8f-9256-4734795e3987",
+      "byline": "By Jacob Meschke",
+      "item_type": "Article",
+      "updated_date": "2021-10-13T14:31:33-04:00",
+      "created_date": "2021-10-13T08:54:40-04:00",
+      "published_date": "2021-10-13T08:54:40-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Star Trek (TV Program)",
+        "Television",
+        "Private Spaceflight",
+        "Space and Astronomy",
+        "Science Fiction"
+      ],
+      "org_facet": [
+        "Blue Origin"
+      ],
+      "per_facet": [
+        "Shatner, William"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-star-trek/13shatner-launch-star-trek-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the \u201cStar Trek\" episode, \u201cA Piece of the Action,\u201d with DeForest Kelley as Dr. Leonard McCoy, center, and Leonard Nimoy as Mr. Spock, right, in 1968.",
+          "copyright": "CBS via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-star-trek/13shatner-launch-star-trek-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the \u201cStar Trek\" episode, \u201cA Piece of the Action,\u201d with DeForest Kelley as Dr. Leonard McCoy, center, and Leonard Nimoy as Mr. Spock, right, in 1968.",
+          "copyright": "CBS via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-star-trek/13shatner-launch-star-trek-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the \u201cStar Trek\" episode, \u201cA Piece of the Action,\u201d with DeForest Kelley as Dr. Leonard McCoy, center, and Leonard Nimoy as Mr. Spock, right, in 1968.",
+          "copyright": "CBS via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-star-trek/13shatner-launch-star-trek-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the \u201cStar Trek\" episode, \u201cA Piece of the Action,\u201d with DeForest Kelley as Dr. Leonard McCoy, center, and Leonard Nimoy as Mr. Spock, right, in 1968.",
+          "copyright": "CBS via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-star-trek/13shatner-launch-star-trek-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the \u201cStar Trek\" episode, \u201cA Piece of the Action,\u201d with DeForest Kelley as Dr. Leonard McCoy, center, and Leonard Nimoy as Mr. Spock, right, in 1968.",
+          "copyright": "CBS via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lxy1IZ"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "What is New Shepard and where will it fly?",
+      "abstract": "The spacecraft is the centerpiece rocket of Blue Origin\u2019s space tourism business.",
+      "url": "https://www.nytimes.com/2021/10/13/science/new-shepard-flight.html",
+      "uri": "nyt://article/11d02bfc-da75-59a1-8e39-fc26b566860a",
+      "byline": "By Joey Roulette",
+      "item_type": "Article",
+      "updated_date": "2021-10-13T09:02:42-04:00",
+      "created_date": "2021-10-13T07:01:28-04:00",
+      "published_date": "2021-10-13T07:01:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Private Spaceflight",
+        "Rocket Science and Propulsion",
+        "Space and Astronomy"
+      ],
+      "org_facet": [
+        "Blue Origin"
+      ],
+      "per_facet": [
+        "Bezos, Jeffrey P"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-flight-details/13shatner-launch-flight-details-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Blue Origin launch site near Van Horn, Texas, on Tuesday morning.",
+          "copyright": "LM Otero/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-flight-details/13shatner-launch-flight-details-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Blue Origin launch site near Van Horn, Texas, on Tuesday morning.",
+          "copyright": "LM Otero/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-flight-details/13shatner-launch-flight-details-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Blue Origin launch site near Van Horn, Texas, on Tuesday morning.",
+          "copyright": "LM Otero/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-flight-details/13shatner-launch-flight-details-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Blue Origin launch site near Van Horn, Texas, on Tuesday morning.",
+          "copyright": "LM Otero/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-flight-details/13shatner-launch-flight-details-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Blue Origin launch site near Van Horn, Texas, on Tuesday morning.",
+          "copyright": "LM Otero/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2X8mWEZ"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "F.D.A. Issues Guidelines to Reduce Salt in Foods",
+      "abstract": "The new recommendations are aimed at food manufacturers and restaurants. Some experts say they don\u2019t go far enough.",
+      "url": "https://www.nytimes.com/2021/10/13/health/fda-salt-food.html",
+      "uri": "nyt://article/2edef761-c3d7-580c-b7ad-adcab7f18e06",
+      "byline": "By Andrew Jacobs",
+      "item_type": "Article",
+      "updated_date": "2021-10-14T12:00:31-04:00",
+      "created_date": "2021-10-13T07:00:09-04:00",
+      "published_date": "2021-10-13T07:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Salt",
+        "Diet and Nutrition",
+        "Food",
+        "Heart",
+        "Blood Pressure",
+        "Restaurants",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Food and Drug Administration"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13SALT/merlin_163478997_18333f80-9f81-423d-8068-c6e805e66b0e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some of the excess sodium in the American diet comes from meals served at restaurants. The F.D.A. is asking businesses and food suppliers to cut the use of salt in the foods they sell.",
+          "copyright": "Nicole Craine for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13SALT/13SALT-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some of the excess sodium in the American diet comes from meals served at restaurants. The F.D.A. is asking businesses and food suppliers to cut the use of salt in the foods they sell.",
+          "copyright": "Nicole Craine for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13SALT/13SALT-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some of the excess sodium in the American diet comes from meals served at restaurants. The F.D.A. is asking businesses and food suppliers to cut the use of salt in the foods they sell.",
+          "copyright": "Nicole Craine for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13SALT/13SALT-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some of the excess sodium in the American diet comes from meals served at restaurants. The F.D.A. is asking businesses and food suppliers to cut the use of salt in the foods they sell.",
+          "copyright": "Nicole Craine for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13SALT/13SALT-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some of the excess sodium in the American diet comes from meals served at restaurants. The F.D.A. is asking businesses and food suppliers to cut the use of salt in the foods they sell.",
+          "copyright": "Nicole Craine for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3auUOit"
+    },
+    {
+      "section": "science",
+      "subsection": "space",
+      "title": "Who are William Shatner\u2019s crewmates?",
+      "abstract": "Three other passengers are on the flight, two of them paying to be there.",
+      "url": "https://www.nytimes.com/2021/10/13/science/space/blue-origin-crew-new-shephard.html",
+      "uri": "nyt://article/cf675ecd-f508-573c-82ce-e8b5e57fa8f8",
+      "byline": "By Joey Roulette",
+      "item_type": "Article",
+      "updated_date": "2021-10-13T14:33:07-04:00",
+      "created_date": "2021-10-13T06:01:38-04:00",
+      "published_date": "2021-10-13T06:01:38-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Rocket Science and Propulsion",
+        "Private Spaceflight",
+        "Space and Astronomy"
+      ],
+      "org_facet": [
+        "Blue Origin"
+      ],
+      "per_facet": [
+        "Shatner, William"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-launch-crew/merlin_196183170_9a7bd4f6-011e-4658-9a7c-059ec2f4a78b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Chris Boshuizen, Mr. Shatner, Audrey Powers and Glen de Vries, the crew of the New Shepard\u2019s second flight.",
+          "copyright": "Blue Origin, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-launch-crew/merlin_196183170_9a7bd4f6-011e-4658-9a7c-059ec2f4a78b-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Chris Boshuizen, Mr. Shatner, Audrey Powers and Glen de Vries, the crew of the New Shepard\u2019s second flight.",
+          "copyright": "Blue Origin, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-launch-crew/merlin_196183170_9a7bd4f6-011e-4658-9a7c-059ec2f4a78b-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Chris Boshuizen, Mr. Shatner, Audrey Powers and Glen de Vries, the crew of the New Shepard\u2019s second flight.",
+          "copyright": "Blue Origin, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-launch-crew/merlin_196183170_9a7bd4f6-011e-4658-9a7c-059ec2f4a78b-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Chris Boshuizen, Mr. Shatner, Audrey Powers and Glen de Vries, the crew of the New Shepard\u2019s second flight.",
+          "copyright": "Blue Origin, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-launch-crew/merlin_196183170_9a7bd4f6-011e-4658-9a7c-059ec2f4a78b-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Chris Boshuizen, Mr. Shatner, Audrey Powers and Glen de Vries, the crew of the New Shepard\u2019s second flight.",
+          "copyright": "Blue Origin, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3v8AJYv"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "Private Equity Funds, Sensing Profit in Tumult, Are Propping Up Oil",
+      "abstract": "These secretive investment companies have pumped billions of dollars into fossil fuel projects, buying up offshore platforms, building new pipelines and extending lifelines to coal power plants.",
+      "url": "https://www.nytimes.com/2021/10/13/climate/private-equity-funds-oil-gas-fossil-fuels.html",
+      "uri": "nyt://article/2d631306-7eea-56f6-bdb8-44985ff5db39",
+      "byline": "By Hiroko Tabuchi",
+      "item_type": "Article",
+      "updated_date": "2021-10-14T06:21:03-04:00",
+      "created_date": "2021-10-13T05:00:21-04:00",
+      "published_date": "2021-10-13T05:00:21-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Private Equity",
+        "Oil (Petroleum) and Gasoline",
+        "Coal",
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Regulation and Deregulation of Industry",
+        "Alternative and Renewable Energy"
+      ],
+      "org_facet": [
+        "The Blackstone Group",
+        "Carlyle Group LP",
+        "Hilcorp Energy Co"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/climate/12CLI-PRIVATEEQUITY1/merlin_144682404_05611f53-958f-487d-b375-d723fda1e89d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "According to new research, private equity firms have invested at least $1.1 trillion into the energy sector since 2010.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/climate/12CLI-PRIVATEEQUITY1/12CLI-PRIVATEEQUITY1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "According to new research, private equity firms have invested at least $1.1 trillion into the energy sector since 2010.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/climate/12CLI-PRIVATEEQUITY1/12CLI-PRIVATEEQUITY1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "According to new research, private equity firms have invested at least $1.1 trillion into the energy sector since 2010.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/climate/12CLI-PRIVATEEQUITY1/12CLI-PRIVATEEQUITY1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "According to new research, private equity firms have invested at least $1.1 trillion into the energy sector since 2010.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/climate/12CLI-PRIVATEEQUITY1/12CLI-PRIVATEEQUITY1-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "According to new research, private equity firms have invested at least $1.1 trillion into the energy sector since 2010.",
+          "copyright": "Jim Wilson/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3oV95NB"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "Fossil-Fuel Use Could Peak in Just a Few Years. Still, Major Challenges Loom.",
+      "abstract": "The world has made progress in the fight against climate change, with wind, solar and other clean technologies taking off. But more is needed to avert catastrophe, a new report finds.",
+      "url": "https://www.nytimes.com/2021/10/13/climate/global-fossil-fuel-use.html",
+      "uri": "nyt://article/de202f02-c613-535b-82f8-f1e2a52f4f22",
+      "byline": "By Brad Plumer",
+      "item_type": "Article",
+      "updated_date": "2021-10-13T10:48:56-04:00",
+      "created_date": "2021-10-13T00:00:10-04:00",
+      "published_date": "2021-10-13T00:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Coal",
+        "Solar Energy",
+        "Carbon Capture and Sequestration",
+        "Wind Power",
+        "Carbon Dioxide",
+        "Alternative and Renewable Energy"
+      ],
+      "org_facet": [
+        "International Energy Agency"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/climate/13cli-energy1/merlin_183576495_5834fa22-f111-47dd-846d-7f0e55f3da0a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A coal-fired power plant in western Germany. Since World War II, global carbon emissions have been on a seemingly inexorable upward trajectory, but a turning point is in sight, according to the world\u2019s top energy agency.",
+          "copyright": "Lukas Schulze/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/climate/13cli-energy1/13cli-energy1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A coal-fired power plant in western Germany. Since World War II, global carbon emissions have been on a seemingly inexorable upward trajectory, but a turning point is in sight, according to the world\u2019s top energy agency.",
+          "copyright": "Lukas Schulze/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/climate/13cli-energy1/13cli-energy1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A coal-fired power plant in western Germany. Since World War II, global carbon emissions have been on a seemingly inexorable upward trajectory, but a turning point is in sight, according to the world\u2019s top energy agency.",
+          "copyright": "Lukas Schulze/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/climate/13cli-energy1/13cli-energy1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A coal-fired power plant in western Germany. Since World War II, global carbon emissions have been on a seemingly inexorable upward trajectory, but a turning point is in sight, according to the world\u2019s top energy agency.",
+          "copyright": "Lukas Schulze/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/13/climate/13cli-energy1/13cli-energy1-articleInline.jpg",
+          "format": "Normal",
+          "height": 133,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A coal-fired power plant in western Germany. Since World War II, global carbon emissions have been on a seemingly inexorable upward trajectory, but a turning point is in sight, according to the world\u2019s top energy agency.",
+          "copyright": "Lukas Schulze/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3BBJWeh"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "F.D.A. Authorizes E-Cigarettes to Stay on U.S. Market for the First Time",
+      "abstract": "The agency approved three Vuse vaping products and said their benefits in helping smokers quit outweighed the risks of hooking youths.",
+      "url": "https://www.nytimes.com/2021/10/12/health/ecigarettes-fda-vuse.html",
+      "uri": "nyt://article/ac5f0c46-2f0b-5318-9dcd-6a40e76af519",
+      "byline": "By Matt Richtel and Sheila Kaplan",
+      "item_type": "Article",
+      "updated_date": "2021-10-13T07:55:51-04:00",
+      "created_date": "2021-10-12T18:49:27-04:00",
+      "published_date": "2021-10-12T18:49:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "E-Cigarettes",
+        "Smoking and Tobacco",
+        "Teenagers and Adolescence",
+        "Regulation and Deregulation of Industry",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Food and Drug Administration",
+        "Juul Labs Inc",
+        "Reynolds, R J, Tobacco Co"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/science/12vaping/12vaping-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Vuse Solo e-cigarette is the first to be approved for market by the F.D.A., which says it helps smokers quit.",
+          "copyright": "Brian Ach/Associated Press, for R.J. Reynolds Vapor Company"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/science/12vaping/12vaping-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Vuse Solo e-cigarette is the first to be approved for market by the F.D.A., which says it helps smokers quit.",
+          "copyright": "Brian Ach/Associated Press, for R.J. Reynolds Vapor Company"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/science/12vaping/12vaping-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Vuse Solo e-cigarette is the first to be approved for market by the F.D.A., which says it helps smokers quit.",
+          "copyright": "Brian Ach/Associated Press, for R.J. Reynolds Vapor Company"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/science/12vaping/12vaping-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Vuse Solo e-cigarette is the first to be approved for market by the F.D.A., which says it helps smokers quit.",
+          "copyright": "Brian Ach/Associated Press, for R.J. Reynolds Vapor Company"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/science/12vaping/12vaping-articleInline.jpg",
+          "format": "Normal",
+          "height": 132,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Vuse Solo e-cigarette is the first to be approved for market by the F.D.A., which says it helps smokers quit.",
+          "copyright": "Brian Ach/Associated Press, for R.J. Reynolds Vapor Company"
+        }
+      ],
+      "short_url": "https://nyti.ms/3AAYVE0"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Did a Meteor Explode Over New Hampshire? That May Explain the Boom.",
+      "abstract": "Meteorologists said that a bolide, a type of large meteor explosion in the atmosphere, might have been the source of a disturbance that was widely reported on Sunday.",
+      "url": "https://www.nytimes.com/2021/10/12/us/boom-new-hampshire-massachussetts-meteor-shower.html",
+      "uri": "nyt://article/b9b75cbf-e189-5c30-8433-3dda8f8920f7",
+      "byline": "By Neil Vigdor",
+      "item_type": "Article",
+      "updated_date": "2021-10-12T17:50:00-04:00",
+      "created_date": "2021-10-12T17:38:15-04:00",
+      "published_date": "2021-10-12T17:38:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Weather",
+        "Satellites",
+        "Meteors and Meteorites",
+        "Space and Astronomy"
+      ],
+      "org_facet": [
+        "National Weather Service",
+        "National Aeronautics and Space Administration",
+        "National Earthquake Information Center",
+        "United States Geological Survey"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "New Hampshire",
+        "Massachusetts",
+        "New England States (US)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/multimedia/12xp-boom-1/merlin_195562941_38367573-1c5a-43c9-95e2-af7647c1598a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A mysterious boom was heard in New Hampshire and parts of Massachusetts on Sunday afternoon.",
+          "copyright": "Greta Rybus for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/multimedia/12xp-boom-1/12xp-boom-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A mysterious boom was heard in New Hampshire and parts of Massachusetts on Sunday afternoon.",
+          "copyright": "Greta Rybus for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/multimedia/12xp-boom-1/12xp-boom-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A mysterious boom was heard in New Hampshire and parts of Massachusetts on Sunday afternoon.",
+          "copyright": "Greta Rybus for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/multimedia/12xp-boom-1/12xp-boom-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A mysterious boom was heard in New Hampshire and parts of Massachusetts on Sunday afternoon.",
+          "copyright": "Greta Rybus for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/multimedia/12xp-boom-1/12xp-boom-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A mysterious boom was heard in New Hampshire and parts of Massachusetts on Sunday afternoon.",
+          "copyright": "Greta Rybus for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lAj74U"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "After 2 Years, a Tire Is Removed From an Elk\u2019s Neck in Colorado",
+      "abstract": "Wildlife officials had been seeking the elk since it was first spotted in 2019. On Saturday, they tranquilized the animal and slid the tire off after removing its antlers.",
+      "url": "https://www.nytimes.com/2021/10/12/us/elk-tire-colorado.html",
+      "uri": "nyt://article/9c2b5b38-69d4-5809-829e-aeb8d96e5d90",
+      "byline": "By Christine Hauser",
+      "item_type": "Article",
+      "updated_date": "2021-10-13T14:06:15-04:00",
+      "created_date": "2021-10-12T17:01:12-04:00",
+      "published_date": "2021-10-12T17:01:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Elk",
+        "Forests and Forestry",
+        "Animals"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Colorado"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/lens/12xp-elk-photo01/12xp-elk-photo01-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The elk with the tire around its neck was first spotted in 2019 by a Colorado wildlife officer who was conducting a survey of bighorn sheep and mountain goats in the Mount Evans Wilderness.",
+          "copyright": "Jared Lamb/Colorado Parks and Wildlife"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/lens/12xp-elk-photo01/12xp-elk-photo01-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The elk with the tire around its neck was first spotted in 2019 by a Colorado wildlife officer who was conducting a survey of bighorn sheep and mountain goats in the Mount Evans Wilderness.",
+          "copyright": "Jared Lamb/Colorado Parks and Wildlife"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/lens/12xp-elk-photo01/12xp-elk-photo01-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The elk with the tire around its neck was first spotted in 2019 by a Colorado wildlife officer who was conducting a survey of bighorn sheep and mountain goats in the Mount Evans Wilderness.",
+          "copyright": "Jared Lamb/Colorado Parks and Wildlife"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/lens/12xp-elk-photo01/12xp-elk-photo01-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The elk with the tire around its neck was first spotted in 2019 by a Colorado wildlife officer who was conducting a survey of bighorn sheep and mountain goats in the Mount Evans Wilderness.",
+          "copyright": "Jared Lamb/Colorado Parks and Wildlife"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/lens/12xp-elk-photo01/12xp-elk-photo01-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The elk with the tire around its neck was first spotted in 2019 by a Colorado wildlife officer who was conducting a survey of bighorn sheep and mountain goats in the Mount Evans Wilderness.",
+          "copyright": "Jared Lamb/Colorado Parks and Wildlife"
+        }
+      ],
+      "short_url": "https://nyti.ms/3oWEAXJ"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Martin Sherwin, Prize-winning Biographer of Oppenheimer, Dies at 84",
+      "abstract": "A historian of the nuclear age, he and his co-author, Kai Bird, won a 2006 Pulitzer for their book about the scientist behind the atom bomb.",
+      "url": "https://www.nytimes.com/2021/10/12/books/martin-sherwin-dead.html",
+      "uri": "nyt://article/0ecf8dec-3060-51ca-ac44-1af9db0f84d3",
+      "byline": "By Sam Roberts",
+      "item_type": "Article",
+      "updated_date": "2021-10-14T23:53:38-04:00",
+      "created_date": "2021-10-12T15:28:17-04:00",
+      "published_date": "2021-10-12T15:28:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Nuclear Weapons",
+        "Writing and Writers",
+        "Books and Literature",
+        "History (Academic Subject)",
+        "Deaths (Obituaries)",
+        "Cold War Era",
+        "Physics"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bird, Kai",
+        "Oppenheimer, J Robert",
+        "Sherwin, Martin J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/15/obituaries/11Sherwood1-print1/merlin_196047903_464cb562-ebf0-491b-8dd9-29822d021b92-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Martin Sherwin, a history professor, spent 20 years researching the life of J. Robert Oppenheimer, the atomic bomb\u2019s creator. Then he met a co-author, Kai Bird (right), and they produced their biography in 2005.",
+          "copyright": "Tina Fineberg/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/15/obituaries/11Sherwood1-print1/11Sherwood1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Martin Sherwin, a history professor, spent 20 years researching the life of J. Robert Oppenheimer, the atomic bomb\u2019s creator. Then he met a co-author, Kai Bird (right), and they produced their biography in 2005.",
+          "copyright": "Tina Fineberg/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/15/obituaries/11Sherwood1-print1/11Sherwood1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Martin Sherwin, a history professor, spent 20 years researching the life of J. Robert Oppenheimer, the atomic bomb\u2019s creator. Then he met a co-author, Kai Bird (right), and they produced their biography in 2005.",
+          "copyright": "Tina Fineberg/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/15/obituaries/11Sherwood1-print1/merlin_196047903_464cb562-ebf0-491b-8dd9-29822d021b92-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Martin Sherwin, a history professor, spent 20 years researching the life of J. Robert Oppenheimer, the atomic bomb\u2019s creator. Then he met a co-author, Kai Bird (right), and they produced their biography in 2005.",
+          "copyright": "Tina Fineberg/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/15/obituaries/11Sherwood1-print1/merlin_196047903_464cb562-ebf0-491b-8dd9-29822d021b92-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Martin Sherwin, a history professor, spent 20 years researching the life of J. Robert Oppenheimer, the atomic bomb\u2019s creator. Then he met a co-author, Kai Bird (right), and they produced their biography in 2005.",
+          "copyright": "Tina Fineberg/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lxrQ7R"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Aspirin Use to Prevent 1st Heart Attack or Stroke Should Be Curtailed, U.S. Panel Says",
+      "abstract": "Adults at high risk for cardiovascular disease may face serious side effects if they start a daily regimen of low-dose aspirin.",
+      "url": "https://www.nytimes.com/2021/10/12/health/aspirin-heart-attack-stroke.html",
+      "uri": "nyt://article/c9bd075c-483f-51c3-9d2c-dc652922fabd",
+      "byline": "By Roni Caryn Rabin",
+      "item_type": "Article",
+      "updated_date": "2021-10-13T13:56:08-04:00",
+      "created_date": "2021-10-12T11:00:10-04:00",
+      "published_date": "2021-10-12T11:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Aspirin",
+        "Preventive Medicine",
+        "Heart",
+        "Colon and Colorectal Cancer",
+        "Stroke",
+        "Doctors",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Agency for Healthcare Research and Quality",
+        "United States Preventive Services Task Force",
+        "American College of Cardiology",
+        "American Heart Assn"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/science/12aspirin/12aspirin-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doctors would be discouraged from starting patients on a daily dose of baby aspirin to prevent heart attack or stroke under proposed new guidelines.",
+          "copyright": "Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/science/12aspirin/12aspirin-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doctors would be discouraged from starting patients on a daily dose of baby aspirin to prevent heart attack or stroke under proposed new guidelines.",
+          "copyright": "Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/science/12aspirin/12aspirin-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doctors would be discouraged from starting patients on a daily dose of baby aspirin to prevent heart attack or stroke under proposed new guidelines.",
+          "copyright": "Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/science/12aspirin/12aspirin-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doctors would be discouraged from starting patients on a daily dose of baby aspirin to prevent heart attack or stroke under proposed new guidelines.",
+          "copyright": "Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/science/12aspirin/12aspirin-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doctors would be discouraged from starting patients on a daily dose of baby aspirin to prevent heart attack or stroke under proposed new guidelines.",
+          "copyright": "Alamy"
+        }
+      ],
+      "short_url": "https://nyti.ms/3AzCmQ4"
+    },
+    {
+      "section": "world",
+      "subsection": "",
+      "title": "One Woman Won a Nobel This Year. Quotas Aren\u2019t the Answer, an Official Says.",
+      "abstract": "Only one of the 13 laureates this year was a woman, but the head of the Royal Swedish Academy of Sciences dismissed the idea of guaranteeing representation.",
+      "url": "https://www.nytimes.com/2021/10/12/world/nobel-prize-woman-gender-ethnicity.html",
+      "uri": "nyt://article/175512be-7644-527c-85ab-b1964e51cf95",
+      "byline": "By Derrick Bryson Taylor",
+      "item_type": "Article",
+      "updated_date": "2021-10-13T12:42:35-04:00",
+      "created_date": "2021-10-12T10:55:44-04:00",
+      "published_date": "2021-10-12T10:55:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Women and Girls",
+        "Nobel Prizes"
+      ],
+      "org_facet": [
+        "Swedish Academy"
+      ],
+      "per_facet": [
+        "Ressa, Maria",
+        "Hansson, Goran K"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/multimedia/12xp-nobelwomen-2/merlin_196014939_8cf57bb9-502c-47f3-bfe8-6ce029220869-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The journalist Maria Ressa was the only woman to be awarded a Nobel Prize in 2021.",
+          "copyright": "Eloisa Lopez/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/multimedia/12xp-nobelwomen-2/12xp-nobelwomen-2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The journalist Maria Ressa was the only woman to be awarded a Nobel Prize in 2021.",
+          "copyright": "Eloisa Lopez/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/multimedia/12xp-nobelwomen-2/12xp-nobelwomen-2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The journalist Maria Ressa was the only woman to be awarded a Nobel Prize in 2021.",
+          "copyright": "Eloisa Lopez/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/multimedia/12xp-nobelwomen-2/12xp-nobelwomen-2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The journalist Maria Ressa was the only woman to be awarded a Nobel Prize in 2021.",
+          "copyright": "Eloisa Lopez/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/multimedia/12xp-nobelwomen-2/12xp-nobelwomen-2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The journalist Maria Ressa was the only woman to be awarded a Nobel Prize in 2021.",
+          "copyright": "Eloisa Lopez/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3FPg8xA"
+    },
+    {
+      "section": "t-magazine",
+      "subsection": "",
+      "title": "A Designer Who Finds Beauty in Decay",
+      "abstract": "In a Warsaw warehouse, Marcin Rusak turns decomposing plant material into polished pieces that degrade over time.",
+      "url": "https://www.nytimes.com/2021/10/12/t-magazine/marcin-rusak-plant-decay.html",
+      "uri": "nyt://article/dc7485ab-6098-5d61-a863-c003ed9a7096",
+      "byline": "By Stephen Wallis and Rafal Milach",
+      "item_type": "Article",
+      "updated_date": "2021-10-12T13:09:38-04:00",
+      "created_date": "2021-10-12T07:00:11-04:00",
+      "published_date": "2021-10-12T07:00:11-04:00",
+      "material_type_facet": "",
+      "kicker": "In Studio",
+      "des_facet": [
+        "Flowers and Plants",
+        "Sculpture",
+        "Art",
+        "Design"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Rusak, Marcin"
+      ],
+      "geo_facet": [
+        "Warsaw (Poland)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/t-magazine/12tmag-rusak-slide-TG6E-copy/12tmag-rusak-slide-TG6E-copy-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The designer Marcin Rusak in his Warsaw studio. Behind him is a Flora tabletop (2017); in the foreground are dried plants he uses, including beech, pear tree, ash-leaved maple, eucalyptus and others.",
+          "copyright": "Rafal Milach"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/t-magazine/12tmag-rusak-slide-TG6E-copy/12tmag-rusak-slide-TG6E-copy-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The designer Marcin Rusak in his Warsaw studio. Behind him is a Flora tabletop (2017); in the foreground are dried plants he uses, including beech, pear tree, ash-leaved maple, eucalyptus and others.",
+          "copyright": "Rafal Milach"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/t-magazine/12tmag-rusak-slide-TG6E-copy/12tmag-rusak-slide-TG6E-copy-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The designer Marcin Rusak in his Warsaw studio. Behind him is a Flora tabletop (2017); in the foreground are dried plants he uses, including beech, pear tree, ash-leaved maple, eucalyptus and others.",
+          "copyright": "Rafal Milach"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/t-magazine/12tmag-rusak-slide-TG6E-copy/12tmag-rusak-slide-TG6E-copy-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The designer Marcin Rusak in his Warsaw studio. Behind him is a Flora tabletop (2017); in the foreground are dried plants he uses, including beech, pear tree, ash-leaved maple, eucalyptus and others.",
+          "copyright": "Rafal Milach"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/10/12/t-magazine/12tmag-rusak-slide-TG6E-copy/12tmag-rusak-slide-TG6E-copy-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The designer Marcin Rusak in his Warsaw studio. Behind him is a Flora tabletop (2017); in the foreground are dried plants he uses, including beech, pear tree, ash-leaved maple, eucalyptus and others.",
+          "copyright": "Rafal Milach"
+        }
+      ],
+      "short_url": "https://nyti.ms/3awEPQJ"
+    }
+  ]
+}
