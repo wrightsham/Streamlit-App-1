@@ -80,7 +80,7 @@ checked = st.checkbox("Click here to generate the word frequency distribution.")
 
 if checked:
     chartData = pd.DataFrame(fdist.most_common(10),columns=['word', 'frequency'])
-    st.table(chartData)
+    # st.table(chartData)
     #https://matplotlib.org/2.1.1/api/_as_gen/matplotlib.pyplot.plot.html
     fig = plt.figure(figsize=(10,8))
     plt.gcf().subplots_adjust(bottom=0.15)
